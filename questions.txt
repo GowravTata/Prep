@@ -1,0 +1,27 @@
+Here are some common Python OOPs interview questions:
+What are the four pillars of OOPs?
+What is the difference between a class and an object?
+What is inheritance?
+What is polymorphism?
+What is encapsulation?
+What is abstraction?
+What is method overriding?
+What is method overloading?
+What is constructor?
+What is destructor?
+What is static method?
+What is class method?
+What is multiple inheritance?
+What is single inheritance?
+What is multilevel inheritance?
+What is hierarchical inheritance?
+What is hybrid inheritance?
+What is interface?
+What is abstract class?
+What is polymorphism?
+What is duck typing?
+What is garbage collection?
+What is memory management?
+what is a private variable ?
+What is the difference between _ and __ in python ?
+Can a private variable or private method be accessed from outside ?

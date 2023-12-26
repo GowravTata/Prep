@@ -1,0 +1,3 @@
+In python, whenever an object is created , a reference counter is associated with the variables to it
+if the variables go out of scope, the reference to the object is decremented, if the reference comes to zero, the the
+object is garbage collected.
