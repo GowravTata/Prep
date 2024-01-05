@@ -1,6 +1,8 @@
 """
 Encapsulation is the idea of wrapping data and the methods that work on data within one unit
 """
+
+
 class Method:
     """
     Private methods are used for the idea of wrapping the data.
